@@ -31,5 +31,4 @@ Present the project (One month Project)
 Utilize Python programming language for data preprocessing, EDA, hypothesis testing, Machine Learning and any other recommendation system implementation.
 Consider integrating MySQL for database management if necessary, ensuring efficient storage and retrieval of data.
 Test the recommendation system rigorously and validate its performance using both quantitative and qualitative metrics.
-## Contributors:
-James Kariuki (Jaymo Muigai)
+
